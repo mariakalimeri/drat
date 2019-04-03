@@ -1,4 +1,8 @@
 Package: bloodstats
 Version: 0.0.1
-MD5sum: 838badb9ff32961e514c88537ca6d960
+Depends: R (>= 3.5.0)
+Imports: dplyr, magrittr
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: d5e174b717d5dd5dd9efaf2470ac35d6
 NeedsCompilation: no
